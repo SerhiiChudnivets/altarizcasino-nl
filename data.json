@@ -241,8 +241,8 @@
     {
       "link": "/play/",
       "logo": "/uploads/d7412f5a54360e0dea0e3c2f1f15fc42.webp",
-      "name": "Welcome Pack 150% tot €1500 + 150 gratis spins",
-      "Name": "Welcome Pack 150% tot €1500 + 150 gratis spins"
+      "name": "Welkomstpakket 150% tot €1500 + 150 gratis spins",
+      "Name": "Welkomstpakket 150% tot €1500 + 150 gratis spins"
     }
   ],
   "Reviews": null,
@@ -272,8 +272,8 @@
       "question": "Is Altariz Casino legaal en veilig?"
     }
   ],
-  "_generated_at": "2026-11-09T17:01:40.143Z",
+  "_generated_at": "2026-11-10T08:30:50.831Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-09T17:01:40.813Z",
-  "_deploy_trigger": "ciurwo"
+  "_last_deploy": "2026-11-10T08:30:51.569Z",
+  "_deploy_trigger": "whblaa"
 }
