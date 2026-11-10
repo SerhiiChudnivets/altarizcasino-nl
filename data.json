@@ -1,11 +1,11 @@
 {
   "name": "altarizcasino.nl",
   "site_name": "Altariz Casino - Welkomstbonuspakket 150% tot 1500 EUR",
-  "html_head": "<meta name=\"google-site-verification\" content=\"ApzN7AN7zPnZ16yjQwsis7TY3ESpeSHXIGpIRDhWHi4\" />\n<link rel=\"canonical\" href=\"https://altarizcasino.nlk/\">\n<meta property=\"og:locale\" content=\"nl_NL\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Altariz Casino - Welkomstbonuspakket 150% tot 1500 EUR\">\n<meta property=\"og:description\" content=\"Kom binnen bij Altariz Casino en geniet van topspellen, spannende momenten en eindeloos vermaak!.\">\n<meta property=\"og:url\" content=\"https://altarizcasino.nl\">\n<meta property=\"og:site_name\" content= \"Altariz Casino\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:title\" content=\"Altariz Casino - Welkomstbonuspakket 150% tot 1500 EUR\">\n<meta name=\"twitter:description\" content=\"Kom binnen bij Altariz Casino en geniet van topspellen, spannende momenten en eindeloos vermaak!\">\n",
+  "html_head": "<meta name=\"google-site-verification\" content=\"Yj20b66R72vtRdpB3GoGwUkBmEBPvtlxvsAPA_96uvw\" />\n<link rel=\"canonical\" href=\"https://altarizcasino.nlk/\">\n<meta property=\"og:locale\" content=\"nl_NL\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Altariz Casino - Welkomstbonuspakket 150% tot 1500 EUR\">\n<meta property=\"og:description\" content=\"Kom binnen bij Altariz Casino en geniet van topspellen, spannende momenten en eindeloos vermaak!.\">\n<meta property=\"og:url\" content=\"https://altarizcasino.nl\">\n<meta property=\"og:site_name\" content= \"Altariz Casino\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:title\" content=\"Altariz Casino - Welkomstbonuspakket 150% tot 1500 EUR\">\n<meta name=\"twitter:description\" content=\"Kom binnen bij Altariz Casino en geniet van topspellen, spannende momenten en eindeloos vermaak!\">\n",
   "url": "altarizcasino.nl",
   "template": "tupchiy",
   "language_code": "nl-NL",
-  "allow_indexing": false,
+  "allow_indexing": true,
   "redirect_404s_to_homepage": true,
   "use_www_version": false,
   "breadcrumbs": true,
@@ -272,8 +272,8 @@
       "question": "Is Altariz Casino legaal en veilig?"
     }
   ],
-  "_generated_at": "2026-11-10T08:30:50.831Z",
+  "_generated_at": "2026-11-10T08:32:43.505Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-10T08:30:51.569Z",
-  "_deploy_trigger": "whblaa"
+  "_last_deploy": "2026-11-10T08:32:44.472Z",
+  "_deploy_trigger": "jupokb"
 }
